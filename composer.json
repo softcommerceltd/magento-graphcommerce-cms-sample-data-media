@@ -1,0 +1,14 @@
+{
+    "name": "softcommerce/graphcommerce-cms-sample-data-media",
+    "description": "Sample Data media files",
+    "type": "magento2-component",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "pub/media"
+            ]
+        ]
+    },
+    "version": "1.0.0"
+}
