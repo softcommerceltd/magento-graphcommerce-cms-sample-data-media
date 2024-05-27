@@ -13,9 +13,9 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
-          name: 1.0.0 [CE|EE|ECE 2.4.0-2.4.7] 27 May 2024
-          tag_name: 1.0.0
+          name: 1.0.1 [CE|EE|ECE 2.4.0-2.4.7] 27 May 2024
+          tag_name: 1.0.1
           body: |-
-            - **Feature**: New module used for sample data.
+            - **Feature**: New module used for sample media data.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
