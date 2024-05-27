@@ -2,6 +2,10 @@
     "name": "softcommerce/graphcommerce-cms-sample-data-media",
     "description": "Sample Data media files",
     "type": "magento2-component",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
     "extra": {
         "map": [
             [
